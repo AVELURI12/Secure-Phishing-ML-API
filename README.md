@@ -10,7 +10,7 @@ This project combines machine learning with security-focused deployment practice
 ---
 
 ## Current Progress
-- Trained a Multilayer Perceptron model using TensorFlow/Keras to detect of website is legitimate, suspicious, or phishy.  
+- Trained a Multilayer Perceptron model using TensorFlow/Keras to detect if website is legitimate, suspicious, or phishy.  
 - Preprocessed and cleaned dataset.  
 - Achieved 93% accuracy.  
 
