@@ -27,4 +27,9 @@ This project combines machine learning with security-focused deployment practice
 ##  Dataset
 - UCI Repository
 - https://archive.ics.uci.edu/dataset/327/phishing+websites   
-- Contains features describing website structure and behavior (e.g., URL length, HTTPS usage, Domain based).  
+- Contains features describing website structure and behavior (e.g., URL length, HTTPS usage, Domain based).
+
+  ---
+
+  ## Reference
+Mohammad, R., Thabtah, F., Mccluskey, T. (2013). *Predicting Phishing Websites using Neural Network trained with Back-Propagation*. ResearchGate. https://www.researchgate.net/publication/261636374_Predicting_Phishing_Websites_using_Neural_Network_trained_with_Back-Propagation
