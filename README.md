@@ -1,4 +1,4 @@
-# Secure-Phishing-ML-API
+# Secure-Phishing-ML-Detection-API
 A machine learning project for detecting phishing websites, with a focus on secure deployment. Currently, the ML model is trained and evaluated. Next steps involve deploying it as an API with authentication and monitoring.
 
 ---
